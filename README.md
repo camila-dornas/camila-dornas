@@ -7,7 +7,7 @@
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
     <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
     <li>- 😄 Pronomes: ela/dela</li>
-    <li>- ⚡ Fun fact: [alguma curiosidade sua]</li>
+    <li>- ⚡ Fun fact: Minha primeira formação é em Gestão de Serviços de Saúde</li>
   </div>
 </div>
 
