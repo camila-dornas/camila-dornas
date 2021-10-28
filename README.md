@@ -1,10 +1,9 @@
-## Camila Dornas!
+## Camila Dornas
 
 <div align="center">
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
     <li>- 😄 Pronomes: ela/dela</li>
     <li>- ⚡ Fun fact: Minha primeira formação é em Gestão de Serviços de Saúde</li>
   </div>
