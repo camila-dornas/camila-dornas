@@ -11,12 +11,22 @@
 
 ---
 
-  <a href="https://github.com/camila-dornas/github-readme-stats" rel="noopener noreferrer" target="_blank">
+<table>
+<tr><td>
+
+   <a href="https://github.com/camila-dornas/github-readme-stats" rel="noopener noreferrer" target="_blank">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=camila-dornas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   </a>
-   <a href="https://github.com/camila-dornas/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+
+</td><td>
+
+ <a href="https://github.com/camila-dornas/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-dornas&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
   </a>
+  
+</td></tr>
+</table>
+
 ---
 
 ### Ferramentas e tecnologias que utilizo:
