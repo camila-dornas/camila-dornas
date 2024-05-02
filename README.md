@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 💻 Desenvolvedora back-end em <a href="https://www.qesh.ai/" target="_blank">Qesh</a></li>
+    <li>- 💻 Desenvolvedora back-end
 <!--     <li>- 🌱 Estudando PHP</li> -->
     <li>- 😄 Pronomes: ela/dela</li>
     <li>- ⚡ Fun fact: Formada também em Gestão de Serviços de Saúde</li>
