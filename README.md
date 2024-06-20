@@ -5,7 +5,7 @@
     <li>- 💻 Desenvolvedora back-end
 <!--     <li>- 🌱 Estudando PHP</li> -->
     <li>- 😄 Pronomes: ela/dela</li>
-    <li>- ⚡ Fun fact: Formada também em Gestão de Serviços de Saúde</li>
+    <li>- ⚡ Fun fact: Formada também em Gestão de Serviços</li>
   </div>
 </div>
 
